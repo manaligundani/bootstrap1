@@ -1,0 +1,14 @@
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    margin-top: 20px;
+}
+.carousel-inner{
+    justify-content: space-around;
+    padding-left: 10px;
+}
+.carousel-inner img{
+    height: 300px;
+}
